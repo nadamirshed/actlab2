@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438773652781",
+    "project_id": "actlab-9d8ad",
+    "storage_bucket": "actlab-9d8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438773652781:android:bab104da9aeeedc76e47a4",
+        "android_client_info": {
+          "package_name": "com.example.actlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438773652781-nbot4h9upjlc14t84ctmf4ak1seh5p84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQw64B_5t0WTZW1qu9YDk3e436yC8VxUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438773652781-nbot4h9upjlc14t84ctmf4ak1seh5p84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
